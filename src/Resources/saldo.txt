@@ -1,0 +1,3 @@
+Saldo = 1000
+Etunimi = Matti
+Sukunimi = Meikäläinen
